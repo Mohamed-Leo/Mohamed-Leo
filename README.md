@@ -112,8 +112,8 @@
 
 ###
 
-<div align="center" style="margin-top: 40px;">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mohamed-Leo&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mohamed-Leo&radius=16&theme=react&area=true&order=5" style="margin-top: 40px;" height="300" alt="activity-graph graph"  />
 </div>
 
 ###
