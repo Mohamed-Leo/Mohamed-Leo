@@ -1,4 +1,4 @@
-## Hi there 👋 ![Flag_of_Egypt](https://github.com/user-attachments/assets/95eef171-4a11-4378-9b7a-89bc19ce0d62)
+## Hi there 👋 
 
 
 <!--
