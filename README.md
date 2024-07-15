@@ -106,13 +106,13 @@
     <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="telegram logo"  />
   </a>
   <a href="https://codepen.io/Shadowing-213123" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Codepen&logo=codepen&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" style="margin-top: 40px;" height="35" alt="codepen logo"  />
+    <img src="https://img.shields.io/static/v1?message=Codepen&logo=codepen&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="codepen logo"  />
   </a>
 </div>
 
 ###
 
-<div align="center">
+<div align="center" style="margin-top: 40px;">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mohamed-Leo&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
 </div>
 
