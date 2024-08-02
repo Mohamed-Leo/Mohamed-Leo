@@ -1,3 +1,9 @@
+<div align="center">
+  <img height="200" src="https://www.icegif.com/wp-content/uploads/2023/12/icegif-96.gif"  />
+</div>
+
+###
+
 <h1 align="left">Hey 👋 What's up?</h1>
 
 ###
@@ -26,6 +32,10 @@
 
 ###
 
+<h4 align="left">Frontend Development :</h4>
+
+###
+
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
   <img width="12" />
@@ -41,54 +51,68 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="30" alt="php logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=laravel" height="30" alt="laravel logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=atom" height="30" alt="atom logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=codepen" height="30" alt="codepen logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=discord" height="30" alt="discord logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=devto" height="30" alt="devto logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=figma" height="30" alt="figma logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=firebase" height="30" alt="firebase logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=github" height="30" alt="github logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=git" height="30" alt="git logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=materialui" height="30" alt="materialui logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=postman" height="30" alt="postman logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=prisma" height="30" alt="prisma logo"  />
-  <img width="12" />
   <img src="https://skillicons.dev/icons?i=redux" height="30" alt="redux logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=regex" height="30" alt="regex logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=stackoverflow" height="30" alt="stackoverflow logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=visualstudio" height="30" alt="visualstudio logo"  />
-  <img width="12" />
   <img src="https://skillicons.dev/icons?i=vite" height="30" alt="vite logo"  />
   <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="30" alt="tailwindcss logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=materialui" height="30" alt="materialui logo"  />
+</div>
+
+###
+
+<h4 align="left">Backend Development :</h4>
+
+###
+
+<div align="left">
+  <img src="https://cdn.simpleicons.org/mysql/4479A1" height="30" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="30" alt="php logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/laravel/FF2D20" height="30" alt="laravel logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=firebase" height="30" alt="firebase logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=prisma" height="30" alt="prisma logo"  />
+</div>
+
+###
+
+<h4 align="left">Tools :</h4>
+
+###
+
+<div align="left">
+  <img src="https://cdn.simpleicons.org/git/F05032" height="30" alt="git logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=github" height="30" alt="github logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=postman" height="30" alt="postman logo"  />
+  <img width="12" />
   <img src="https://skillicons.dev/icons?i=vscode" height="30" alt="vscode logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=discord" height="30" alt="discord logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=stackoverflow" height="30" alt="stackoverflow logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/canva/00C4CC" height="30" alt="canva logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg" height="30" alt="chrome logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=figma" height="30" alt="figma logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=codepen" height="30" alt="codepen logo"  />
 </div>
 
 ###
 
 <h2 align="left"></h2>
-
-###
-
-<img align="right" height="130" src="https://gifdb.com/images/high/one-piece-funny-luffy-and-zoro-snkswztgq8yfuckv.webp"  />
 
 ###
 
@@ -113,11 +137,13 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mohamed-Leo&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
+  <img height="200" src="https://gifdb.com/images/high/one-piece-funny-luffy-and-zoro-snkswztgq8yfuckv.webp"  />
 </div>
 
 ###
 
-
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mohamed-Leo&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
+</div>
 
 ###
