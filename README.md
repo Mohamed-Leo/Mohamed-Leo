@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="200" src="https://www.icegif.com/wp-content/uploads/2023/12/icegif-96.gif"  />
+  <img height="200" width="100%" src="https://www.icegif.com/wp-content/uploads/2023/12/icegif-96.gif"  />
 </div>
 
 ###
