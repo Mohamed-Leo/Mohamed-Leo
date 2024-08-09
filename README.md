@@ -16,7 +16,7 @@
 
 ###
 
-<p align="left">I am a Junior Full-Stack Web Developer seeking to secure a challenging position as a Developer in a fast-paced environment where I can utilize my skills<br><br>✨ Creating bugs since 2023<br>📚 I'm currently learning TypeScript, Tailwind, Next js<br>🎯 Goals: get the first job, be a professional developer, be an instructor, Team Leader</p>
+<p align="left">I am a Junior Full-Stack Web Developer seeking to secure a challenging position as a Developer in a fast-paced environment where I can utilize my skills<br><br>✨ Creating bugs since 2023<br>📚 I'm currently learning TypeScript, Tailwind, Next js<br>🎯 Goals: get the first job, be a professional developer, be an instructor and a Team Leader</p>
 
 ###
 
