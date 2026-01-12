@@ -205,13 +205,6 @@ I’m Mohamed, a Full-Stack Web Developer & Team Leader from Egypt 🇪🇬, foc
 
 ###
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Mohamed-Leo/Mohamed-Leo/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Mohamed-Leo/Mohamed-Leo/output/pacman-contribution-graph.svg">
-  <img alt="Pacman Contribution Graph" src="https://raw.githubusercontent.com/Mohamed-Leo/Mohamed-Leo/output/pacman-contribution-graph.svg">
-</picture>
-
-<img src="https://raw.githubusercontent.com/Mohamed-Leo/Mohamed-Leo/output/snake.svg" alt="Snake animation" />
-
-
-###
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mohamed-Leo&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
+</div>
