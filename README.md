@@ -4,21 +4,36 @@
 
 ###
 
-<h1 align="left">Hey 👋 What's up?</h1>
+<h1 align="center">Hey there 👋 I'm Mohamed</h1>
 
 ###
 
-<p align="left">Hi 👋! My name is Mohamed and I'm a Full-Stack Web Developer from Egypt</p>
+<p align="center">
+  Full-Stack Web Developer from Egypt 🇪🇬 <br/>
+  Building real-world web applications with modern technologies
+</p>
 
 ###
 
-<h2 align="left">🤗About me</h2>
+<h2 align="left">👨‍💻 About Me</h2>
 
 ###
 
-<p align="left">I am a Junior Full-Stack Web Developer seeking to secure a challenging position as a Developer in a fast-paced environment where I can utilize my skills<br><br>✨ Creating bugs since 2023<br>📚 I'm currently learning TypeScript, Tailwind, Next js<br>🎯 Goals: get the first job, be a professional developer, be an instructor and a Team Leader</p>
+I’m Mohamed, a Full-Stack Web Developer & Team Leader from Egypt 🇪🇬, focused on building real-world, scalable web applications and leading teams that deliver real value.
+
+🚀 I currently lead two teams: a junior developers team, where I mentor and guide engineers, and MOTQN, a growing software team working on multiple freelance projects across different domains. We’re actively building products and preparing to launch our official platform showcasing our projects, blogs, posts, skills, and client work, with a clear vision to scale the team and the company.
+
+🛠️ Technically, I’m now frontend-focused, specializing in React and Next.js, while integrating with different Backend-as-a-Service solutions. I’ve previously worked with Laravel, and I’m currently expanding my backend expertise with Node.js, Express, and modern backend architectures.
+
+🎓 Alongside development, I teach computer science and web development, sharing knowledge and helping others grow in the field.
+
+⚡ Beyond coding, I enjoy playing soccer ⚽, running 🏃, and gaming 🎮, with plans to start my own gaming YouTube channel. I also love storytelling 🎬 and creating short videos using different AI tools 🤖 to turn ideas into creative content.
+
+🎯 My long-term vision is to grow MOTQN into a larger software company, continue delivering high-quality freelance work, and keep evolving as a developer, leader, and instructor—always focused on clean code, teamwork, and real impact.
 
 ###
+
+<h2 align="left">Graphs</h2>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Mohamed-Leo&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
@@ -30,107 +45,130 @@
 
 <h2 align="left">🖥️Main Technologies</h2>
 
-###
-
 <h4 align="left">Frontend Development :</h4>
 
-###
-
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="30" alt="sass logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="40" alt="sass logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" height="30" alt="jquery logo"  />
+  <img src="https://cdn.simpleicons.org/jquery/0769AD" height="40" alt="jquery logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="30" alt="bootstrap logo"  />
+  <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="40" alt="tailwindcss logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
+  <img src="https://cdn.simpleicons.org/javascript/F7DF1E" height="40" alt="javascript logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=redux" height="30" alt="redux logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=regex" height="30" alt="regex logo"  />
+  <img src="https://cdn.simpleicons.org/react/61DAFB" height="40" alt="react logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="30" alt="tailwindcss logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="40" alt="redux logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=materialui" height="30" alt="materialui logo"  />
+  <img src="https://skillicons.dev/icons?i=regex" height="40" alt="regex logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eslint/eslint-original.svg" height="30" alt="eslint logo"  />
+  <img src="https://skillicons.dev/icons?i=materialui" height="40" alt="materialui logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="30" alt="nextjs logo"  />
+  <img src="https://cdn.simpleicons.org/markdown/000000" height="40" alt="markdown logo"  />
+  <img src="https://cdn.simpleicons.org/electron/47848F" height="40" alt="electron logo"  />
 </div>
 
 ###
 
 <h4 align="left">Backend Development :</h4>
 
+<div align="left">
+  <img src="https://cdn.simpleicons.org/php/777BB4" height="40" alt="php logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/laravel/FF2D20" height="40" alt="laravel logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Express-000000?logo=express&logoColor=white&style=for-the-badge" height="40" alt="express logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/supabase/3ECF8E" height="40" alt="supabase logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=prisma" height="40" alt="prisma logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/convex.svg" height="30" alt="convex.svg logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/neon-tech.svg" height="30" alt="neon-tech logo"  />
+  <img width="12" />
+  <img src="https://avatars.githubusercontent.com/u/108468352?s=48&v=4" height="30" alt="drizzle logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=firebase" height="40" alt="firebase logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/appwrite/F02E65" height="40" alt="appwrite logo"  />
+</div>
+
 ###
 
+<h4 align="left">Development, Deployment & Testing :</h4>
+
 <div align="left">
-  <img src="https://cdn.simpleicons.org/mysql/4479A1" height="30" alt="mysql logo"  />
+  <img src="https://cdn.simpleicons.org/git/F05032" height="40" alt="git logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="30" alt="php logo"  />
+  <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/laravel/FF2D20" height="30" alt="laravel logo"  />
+  <img src="https://skillicons.dev/icons?i=postman" height="40" alt="postman logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=prisma" height="30" alt="prisma logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/composer/composer-original.svg" height="40" alt="composer logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/babel/F9DC3E" height="40" alt="babel logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/gnubash/4EAA25" height="40" alt="bash logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=vite" height="40" alt="vite logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=webpack" height="40" alt="webpack logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="40" alt="npm logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yarn/yarn-original.svg" height="40" alt="yarn logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="40" alt="jest logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Vercel-000000?logo=vercel&logoColor=white&style=for-the-badge" height="40" alt="vercel logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/netlify/00C7B7" height="40" alt="netlify logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=powershell" height="40" alt="powershell logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/eslint/4B32C3" height="40" alt="eslint logo"  />
 </div>
 
 ###
 
 <h4 align="left">Others :</h4>
 
-###
-
 <div align="left">
-  <img src="https://cdn.simpleicons.org/git/F05032" height="30" alt="git logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=github" height="30" alt="github logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/thealgorithms/thealgorithms-original.svg" height="40" alt="thealgorithms logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=postman" height="30" alt="postman logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=vscode" height="30" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=stackoverflow" height="30" alt="stackoverflow logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/canva/00C4CC" height="30" alt="canva logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=figma" height="30" alt="figma logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=codepen" height="30" alt="codepen logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=vite" height="30" alt="vite logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/composer/composer-original.svg" height="30" alt="composer logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="30" alt="npm logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yarn/yarn-original.svg" height="30" alt="yarn logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/jest/C21325" height="30" alt="jest logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/vercel/000000" height="30" alt="vercel logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=powershell" height="30" alt="powershell logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=firebase" height="30" alt="firebase logo"  />
+  <img src="https://skillicons.dev/icons?i=ai" height="40" alt="adobeillustrator logo"  />
 </div>
 
-###
-
 <h2 align="left"></h2>
-
-###
 
 <div align="left">
   <a href="https://www.linkedin.com/in/mohamed-mahmoud90/" target="_blank">
@@ -153,13 +191,27 @@
 ###
 
 <div align="center">
-  <img height="200" src="https://gifdb.com/images/high/one-piece-funny-luffy-and-zoro-snkswztgq8yfuckv.webp"  />
+  <img src="https://count.getloli.com/@:Mohamed-Leo?theme=booru-r6gdrawfriends&padding=9&offset=5&scale=1.1&align=center&pixelated=1&darkmode=auto"  />
 </div>
 
 ###
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mohamed-Leo&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
+  <img height="200" src="https://gist.githubusercontent.com/zeysert/bc8c0a4090c377a755dcc77bbeac66e4/raw/43f9b12677934c5d99499f6d9d574d30c86f979c/coding.gif" />
+  &nbsp;&nbsp;
+  &nbsp;&nbsp;
+  <img height="200" src="https://gifdb.com/images/high/one-piece-funny-luffy-and-zoro-snkswztgq8yfuckv.webp" />
 </div>
+
+###
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Mohamed-Leo/Mohamed-Leo/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Mohamed-Leo/Mohamed-Leo/output/pacman-contribution-graph.svg">
+  <img alt="Pacman Contribution Graph" src="https://raw.githubusercontent.com/Mohamed-Leo/Mohamed-Leo/output/pacman-contribution-graph.svg">
+</picture>
+
+<img src="https://raw.githubusercontent.com/Mohamed-Leo/Mohamed-Leo/output/snake.svg" alt="Snake animation" />
+
 
 ###
